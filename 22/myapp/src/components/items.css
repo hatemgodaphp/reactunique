@@ -1,0 +1,10 @@
+.item:first-of-type {
+    background: #ddd;
+}
+.item:nth-of-type(2) {
+    background: #222;
+    color: #fff;
+}
+.item:last-of-type {
+    background: #888;
+}
